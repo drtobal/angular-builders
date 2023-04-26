@@ -3994,10 +3994,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.18.3":
-  version: 16.18.3
-  resolution: "@types/node@npm:16.18.3"
-  checksum: 6b8ba2ea5d842f7986e366cb9184c54d273d492784dc62e08fd5afeae938d9b61aec6e4222d2541cd18f9b1412ba361bbcb3f4204fb003608af80a2a6af959f9
+"@types/node@npm:16.18.25":
+  version: 16.18.25
+  resolution: "@types/node@npm:16.18.25"
+  checksum: 181760ad6b54fcc498dfeb249e98bbf0be51d7c35e92e760e1a82004fa42b86e8c33a8f8dd7743b5ef872bda0753d9e6a5b8e3f0aed63e9eb79b4e65760c1fbe
   languageName: node
   linkType: hard
 
@@ -8805,7 +8805,7 @@ __metadata:
     "@angular/platform-browser-dynamic": 15.0.1
     "@angular/router": 15.0.1
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     html-webpack-plugin: 5.5.0
     jasmine-core: 4.5.0
@@ -12423,7 +12423,7 @@ __metadata:
     "@angular/platform-browser-dynamic": 15.0.1
     "@angular/router": 15.0.1
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     jasmine-core: 4.5.0
     jest: 28.1.3
@@ -15093,7 +15093,7 @@ __metadata:
     "@angular/router": 15.0.1
     "@cypress/schematic": 2.3.0
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     jasmine-core: 4.5.0
     karma: 6.4.1
@@ -15127,7 +15127,7 @@ __metadata:
     "@angular/platform-browser-dynamic": 15.0.1
     "@angular/router": 15.0.1
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     jasmine-core: 4.5.0
     karma: 6.4.1
@@ -15451,7 +15451,7 @@ __metadata:
     "@angular/platform-browser-dynamic": 15.0.1
     "@angular/router": 15.0.1
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     jasmine-core: 4.5.0
     jest: 28.1.3
@@ -16447,7 +16447,7 @@ __metadata:
     "@angular/router": 15.0.1
     "@cypress/schematic": 2.3.0
     "@types/jasmine": 4.3.0
-    "@types/node": 16.18.3
+    "@types/node": 16.18.25
     cypress: 10.11.0
     jasmine-core: 4.5.0
     karma: 6.4.1
