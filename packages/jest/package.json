@@ -42,7 +42,7 @@
     "ci": "./scripts/ci.sh"
   },
   "dependencies": {
-    "@angular-devkit/architect": ">=0.1500.0 < 0.1600.0",
+    "@angular-devkit/architect": "< 0.1600.1",
     "@angular-devkit/core": "^15.0.0",
     "jest-preset-angular": "12.2.6",
     "lodash": "^4.17.15",
